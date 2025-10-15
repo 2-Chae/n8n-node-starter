@@ -1,0 +1,9 @@
+
+
+> n8n-nodes-<...>@0.1.0 build
+> npx rimraf dist && tsc && gulp build:icons
+
+[08:19:55] Using gulpfile ~/n8n-node-starter-master/gulpfile.js
+[08:19:55] Starting 'build:icons'...
+[08:19:55] 'build:icons' errored after 5.07 ms
+[08:19:55] Error: ENOENT: no such file or directory, scandir '/home/hyeon/n8n-node-starter-master/credentials'
